@@ -1,2 +1,1 @@
-# HumanLearningInference
-Statistical Analysis and Inference on Human Learning (Blocked v/s Interleaved)
+# Statistical Analysis and Inference on Human Learning (Blocked v/s Interleaved)
