@@ -44,3 +44,20 @@ have been validated only in the field of mathematics, and may not generalize to 
 We aim to extend the work and examine its applications in a non-declarative task like coding. To
 the best of our knowledge, this is the first study that will observe a blocked versus interleaved
 approach for such a task.
+
+## REFERENCES
+1. Rohrer, Doug, Robert F. Dedrick, and Sandra Stershic. "Interleaved practice improves
+mathematics learning." Journal of Educational Psychology 107.3 (2015): 900.
+
+2. Carvalho, Paulo F., and Robert L. Goldstone. "Putting category learning in order: Category
+structure and temporal arrangement affect the benefit of interleaved over blocked study." Memory
+& cognition 42.3 (2014): 481-495.
+3. Taylor, Kelli, and Doug Rohrer. "The effects of interleaved practice." Applied Cognitive
+Psychology 24.6 (2010): 837-848.
+4. Rohrer, Doug, and Kelli Taylor. "The shuffling of mathematics problems improves learning."
+Instructional Science 35.6 (2007): 481-498.
+5. Tauber, Sarah K., et al. "Self-regulated learning of a natural category: Do people interleave or
+block exemplars during study?." Psychonomic bulletin & review 20.2 (2013): 356-363.
+6. Rau, Martina A., Vincent Aleven, and Nikol Rummel. "Blocked versus interleaved practice with
+multiple representations in an intelligent tutoring system for fractions." International conference on
+intelligent tutoring systems. Springer, Berlin, Heidelberg, 2010.
