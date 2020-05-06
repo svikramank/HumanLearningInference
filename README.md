@@ -24,6 +24,8 @@ were asked to solve previously unseen problems. It was seen that scores in the i
 (63%) were almost triple than the blocked group (23%). The study in [3] went a step further and
 repeated the experiment but at the same time controlling for spaced repetition. The interleaved
 group still showed significantly better scores as compared to the blocked group (77% vs. 38%).
+
+
 A more recent work [2] shows that the effectiveness of each approach (blocked and interleaved)
 will depend on what the task at hand demands. In the active learning tasks, where participants
 are provided feedback after every problem, the interleaved approach was found to be more
@@ -35,10 +37,9 @@ approach may show better results.
 
 The interleaving approach has also been shown to be effective in the learning of representations
 [7], not only tasks. In [7], the research experimented with various representations of mixed
-fractions. They found that interleaving yielded better results than blocking. They used bayesian
+fractions. They found that interleaving yielded better results than blocking. They used bayesian knowledge tracing and measures like learning rate (instead of raw accuracy rates) and it was
+shown that interleaving leads to better learning. 
 
-knowledge tracing and measures like learning rate (instead of raw accuracy rates) and it was
-shown that interleaving leads to better learning.
 Although the benefits of interleaving have been shown, researchers [2][3] concede that these
 have been validated only in the field of mathematics, and may not generalize to other domains.
 We aim to extend the work and examine its applications in a non-declarative task like coding. To
@@ -48,7 +49,6 @@ approach for such a task.
 ## REFERENCES
 1. Rohrer, Doug, Robert F. Dedrick, and Sandra Stershic. "Interleaved practice improves
 mathematics learning." Journal of Educational Psychology 107.3 (2015): 900.
-
 2. Carvalho, Paulo F., and Robert L. Goldstone. "Putting category learning in order: Category
 structure and temporal arrangement affect the benefit of interleaved over blocked study." Memory
 & cognition 42.3 (2014): 481-495.
